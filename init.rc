@@ -1,0 +1,16 @@
+# TEAMNAME variance_inference
+# TEAMMEMBERS learn2crawl
+
+view_delay = 0
+travel_delay = -1
+explore_delay = -1
+rest_delay = -1
+use_animations = 0
+msg_condense_short =true
+monster_item_view_coordinates = true
+show_more = false
+autofight_stop = 0
+autofight_hunger_stop = -2
+clear_messages = true
+msg_max_height = 20
+
